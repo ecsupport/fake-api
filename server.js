@@ -1,3 +1,4 @@
+require('dotenv').config()
 const jsonServer = require('json-server');
 const chalk = require('chalk');
 const path = require('path');
